@@ -2,7 +2,7 @@
 # I am React js Developer
 
 
-A quick learner and self-motivated Web Developer with 3 years of experience. I love to learn new technologies.
+A quick learner and self-motivated Web Developer with 2 years of experience. I love to learn new technologies.
 
 Skills: HTML5 / CSS3 / BOOTSTRAP / JAVASCRIPT / REACTJS / NEXTJS
 
