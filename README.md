@@ -1,8 +1,9 @@
 
  ![header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-### Hi there 👋
-# I am React js Developer
+<h1 align="center">Hi 👋, I'm Jamil rayhan</h1>
+<h1 align="center"> React js Developer at ThemePure</h1>
+ 
 
 
 A quick learner and self-motivated Web Developer with 2 years of experience. I love to learn new technologies.
