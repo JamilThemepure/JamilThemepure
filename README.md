@@ -2,7 +2,7 @@
  ![header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi 👋 I'm Jamil Rayhan</h1>
-<h1 align="center"> React js Developer at ThemePure</h1>
+<h3 align="center"> React js Developer at ThemePure</h3>
  
 
 
